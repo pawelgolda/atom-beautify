@@ -6,10 +6,10 @@
   "description": "Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Glavin001/atom-beautify"
+    "url": "https://github.com/pawelgolda/atom-beautify"
   },
   "bugs": {
-    "url": "https://github.com/Glavin001/atom-beautify/issues"
+    "url": "https://github.com/pawelgolda/atom-beautify/issues"
   },
   "license": "MIT",
   "author": {
